@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Departments - GOVT FIRST GRADE COLLEGE SORABA</title>
+</head>
+<body bgcolor="lightyellow">
+
+    <center>
+        <h1><i> Department of Computer Science BCA</i></h1>
+    </center>
+    <hr>
+<center>
+
+    <h2>DEPARTMENT BUILDING</h2>
+    <img src="C:\colleg activity\img\WhatsApp Image 2026-02-12 at 12.12.01.jpeg" width="1900">
+  
+  
+
+    <hr>
+
+    <h2>BCA 1ST YEAR</h2>
+    <img src="C:\colleg activity\img\WhatsApp Image 2026-02-12 at 12.11.59.jpeg" width="1900">
+  
+  <p>ROOM NUMBER:48</p>
+
+    <hr>
+
+    <h2>BCA 2ND YEAR</h2>
+    <img src="C:\colleg activity\img\WhatsApp Image 2026-02-12 at 12.12.00.jpeg" width="1900">
+    <p>ROOM NUMBER: 49</p>
+
+    <hr>
+
+    <h2>BCA 3RD YEAR</h2>
+    <img src="C:\colleg activity\img\WhatsApp Image 2026-02-12 at 12.12.03.jpeg" width="1900">
+    <p>ROOM NUMBER: 50</p>
+
+    <hr>
+</center>
+
+    <center>
+        <a href="index.html">
+            <button style="font-size:25px; padding:15px 40px; border-radius:20px;">
+            BACK TO HOME
+        </button>
+        </a>
+    </center>
+
+</body>
+</html>
